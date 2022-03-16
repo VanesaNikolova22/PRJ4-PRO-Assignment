@@ -50,7 +50,7 @@ body {
 	flex-basis: 1.4em;
 }
 .language-progress { 
-	background-color: #D2B0E7;
+	background-color: #FF00F2;
 }
 
 .special-title {
@@ -58,9 +58,22 @@ body {
 	color: #260F34;
 }
 .fst-italic {
-	color: #B984D9;
+	color: #FF00F2;
 }
 /* unvisited link */
 a:link {
-  color: #F00D2A;
+  color: #0DCAF0;
 }
+
+a:hover {
+  color: #FF00F2;
+}
+
+a:visited {
+  color: #0DCAF0;
+}
+
+a:active {
+  color: #0DCAEA;
+}
+
