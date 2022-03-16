@@ -7,7 +7,7 @@
 
 body {
 	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #260F34;
+	color: #5A277A;
 	background-color: #FFFFFF;
 }
 
@@ -36,7 +36,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #000000;
+	color: #0DCAEB;
 }
 
 .biography-details li, .skill-list li {
@@ -55,5 +55,12 @@ body {
 
 .special-title {
 	font-family: 'Righteous', cursive;
-	color: #260F34
+	color: #260F34;
+}
+.fst-italic {
+	color: #B984D9;
+}
+/* unvisited link */
+a:link {
+  color: #0DCAF0;
 }
